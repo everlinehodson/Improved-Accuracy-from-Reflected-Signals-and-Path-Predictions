@@ -1,0 +1,2 @@
+# Improved-Accuracy-from-Reflected-Signals-and-Path-Predictions
+ An assisted GPS direct positioning estimation (DPE) technique for urban environment copes with a full spectrum of direct-line-of-sight and non-line-of-sight or multipath conditions. A new approach using signal visibility and secular reflection predictions within the DPE shows the potential to reduce positioning error from approximately 30 to 10 meters https://insidegnss.com/strandjord/  . 
